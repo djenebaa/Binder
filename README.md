@@ -35,23 +35,45 @@ Go to the app path and run the following command:
 
 ## Screenshots
 
-Landing:
-![](./ImagesApp/Landing)
+<p align="center" style="color:purple;">Landing</p>
 
-Home Page:
-![](./ImagesApp/Home)
+<p align="center">
+  <img src="/ImagesApp/Landing.png" alt="Landing" width="400">
+</p>
 
-Login:
-![](./ImagesApp/Login)
+<p align="center">Home Page</p>
 
-Register
-![](./ImagesApp/Register)
+<p align="center">
+  <img src="/ImagesApp/Home.png" alt="Home" width="400">
+</p>
 
-Home Page if no more profile to show in the database:
-![](./ImagesApp/Home2)
+<p align="center">Login</p>
 
-Matched:
-![](./ImagesApp/Matched)
+<p align="center">
+  <img src="/ImagesApp/Login.png" alt="Login" width="400">
+</p>
 
-Chat:
-![](./ImagesApp/Chat)
+<p align="center">Register</p>
+
+<p align="center">
+  <img src="/ImagesApp/Register.png" alt="Register" width="400">
+</p>
+
+<p align="center">Home Page, Handling no more data to show</p>
+
+<p align="center">
+  <img src="/ImagesApp/Home2.png" alt="Home2" width="400">
+</p>
+
+<p align="center">Matched</p>
+
+<p align="center">
+  <img src="/ImagesApp/Matched.png" alt="Matched" width="400">
+</p>
+
+<p align="center">Chat</p>
+
+<p align="center">
+  <img src="/ImagesApp/Chat.png" alt="Chat" width="400">
+</p>
+
