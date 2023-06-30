@@ -1,3 +1,5 @@
+-- Active: 1688147917758@@127.0.0.1@3306@binder
+
 -- SQLBook: Code
 
 DROP DATABASE binder;
